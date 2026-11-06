@@ -2,6 +2,6 @@
 <!-- Replace https://YOUR-HOST/ahs-music with the HTTPS folder these two files live in. -->
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='ehoekblkhbmjpnilejhaedobaghpkeol'>
-    <updatecheck codebase='https://YOUR-HOST/ahs-music/ahs-music-audio-only.crx' version='1.0.0' />
+    <updatecheck codebase='https://cwood0270/ahs-music/ahs-music-audio-only.crx' version='1.0.0' />
   </app>
 </gupdate>
